@@ -1,5 +1,5 @@
 # Chatbot for Banking Systems
-This repository contains the source code for a banking system chatbot named Bonk. Bonk automates various tasks relevant to fixed deposit (FD) investments. It can also calculate the principal, interest rate, compound ratio, number of years and balance based on the values given to it. It can also generate a report for a desired year interval, which can be saved into a file. The application is developed using C programming language.
+This repository contains the source code for a banking system chatbot named Bonk. Bonk automates various tasks relevant to fixed deposit (FD) investments. The application is developed using C programming language.
 ## Packages
 - stdio.h
 - math.h
