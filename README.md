@@ -14,7 +14,7 @@ This repository contains the source code for a banking system chatbot named Bonk
 - Chatbot: An algorithm that reads the text from keyboard or file inputs, and processes them to determine the type of operations required to be performed.
 ## Usage
 1. Clone the repository.
-2. Run main.c.
+2. Run [main.c]() in an IDE.
 ## Examples
 - Menu to select 8 different functions from.
 <br><br><img src="https://github.com/julianganjs/banking-system-chatbot/assets/127673790/e0cc7fc2-255d-42ad-b6b4-2d9fd8f0bfa1" height="230"><br>
