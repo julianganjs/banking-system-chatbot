@@ -16,6 +16,7 @@ This repository contains the source code for a banking system chatbot named Bonk
 4. Account Comparison: An algorithm that calculates the number years needed for two accounts with different compound ratios to have the same balance.
 5. Chatbot: An algorithm that reads the text from keyboard or file inputs, and processes them to determine the type of operations required to be performed.
 ## Example
+![image](https://github.com/julianganjs/banking-system-chatbot/assets/127673790/91da9310-cb59-42b0-84fd-6a3010ff1340)
 
 ## License
 This project is licensed under the MIT License.
