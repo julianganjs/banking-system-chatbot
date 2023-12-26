@@ -11,10 +11,10 @@ This repository contains the source code for a banking system chatbot named Bonk
 2. Run main.c.
 ## Code Description
 1. Menu: An interface is generated where the user can choose from 7 different options.
-2. Value Calculation: The values for principal, interest rate, compound ratio, number of years and balance can be calculated individually by providing the others.
-3. Report Generation: A report can be generated for given year interval.
-4. Account Comparison: An algorithm calculates the number years needed for two accounts with different compound ratios to have the same balance.
-5. Chatbot: An algorithm that reads the text from keyboard or file inputs, and processes the inputs to determine the type of operations required to be performed.
+2. Value Calculation: The principal, interest rate, compound ratio, number of years and balance can be calculated individually by providing the values of other fields.
+3. Report Generation: A report can be generated for a given year interval.
+4. Account Comparison: An algorithm that calculates the number years needed for two accounts with different compound ratios to have the same balance.
+5. Chatbot: An algorithm that reads the text from keyboard or file inputs, and processes them to determine the type of operations required to be performed.
 ## Example
 
 ## License
