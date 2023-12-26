@@ -7,11 +7,11 @@ This repository contains the source code for a banking system chatbot named Bonk
 - stdlib.h
 > These packages are already included in the C standard library. Hence, no external dependencies are needed, only an IDE for C.
 ## Code Description
-1. Menu: An interface is generated where the user can choose from 8 different functions.
-2. Value Calculation: The principal, interest rate, compound ratio, number of years and balance can be calculated individually by providing the values of other fields.
-3. Report Generation: A report can be generated for a given year interval.
-4. Account Comparison: An algorithm that calculates the number years needed for two accounts with different compound ratios to have the same balance.
-5. Chatbot: An algorithm that reads the text from keyboard or file inputs, and processes them to determine the type of operations required to be performed.
+- Menu: An interface is generated where the user can choose from 8 different functions.
+- Value Calculation: The principal, interest rate, compound ratio, number of years and balance can be calculated individually by providing the values of other fields.
+- Report Generation: A report can be generated for a given year interval.
+- Account Comparison: An algorithm that calculates the number years needed for two accounts with different compound ratios to have the same balance.
+- Chatbot: An algorithm that reads the text from keyboard or file inputs, and processes them to determine the type of operations required to be performed.
 ## Usage
 1. Clone the repository.
 2. Run main.c.
