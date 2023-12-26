@@ -6,3 +6,7 @@ This repository contains the source code for a baking system chatbot named Bonk.
 - string.h
 - stdlib.h
 > These packages are already included in the C standard library. Hence, no external dependencies are needed, only an IDE for C programming.
+## Usage
+1. Clone the repository.
+2. Run main.c.
+## Code Description
