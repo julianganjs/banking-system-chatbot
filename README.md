@@ -17,12 +17,12 @@ This repository contains the source code for a banking system chatbot named Bonk
 2. Run [main.c](https://github.com/julianganjs/banking-system-chatbot/blob/main/main.c) in an IDE.
 ## Examples
 - Menu to select 8 different functions from.
-<br><br><img src="https://github.com/julianganjs/banking-system-chatbot/assets/127673790/e0cc7fc2-255d-42ad-b6b4-2d9fd8f0bfa1" height="230"><br>
+<br><br><img src="https://github.com/julianganjs/banking-system-chatbot/assets/127673790/e0cc7fc2-255d-42ad-b6b4-2d9fd8f0bfa1" width="400vw"><br>
 - Report generated for a five year interval.
-<br><br><img src="https://github.com/julianganjs/banking-system-chatbot/assets/127673790/4287d254-0043-4550-a2d4-e82ed884e8c3" height="223"><br>
+<br><br><img src="https://github.com/julianganjs/banking-system-chatbot/assets/127673790/4287d254-0043-4550-a2d4-e82ed884e8c3" width="470vw"><br>
 - Chatbot's welcome message.
-<br><br><img src="https://github.com/julianganjs/banking-system-chatbot/assets/127673790/4929dbd0-7e38-4d48-a4eb-565b0330257d" height="100"><br>
+<br><br><img src="https://github.com/julianganjs/banking-system-chatbot/assets/127673790/4929dbd0-7e38-4d48-a4eb-565b0330257d" width="480vw"><br>
 - Chatbot's response to an example enquiry.
-<br><br><img src="https://github.com/julianganjs/banking-system-chatbot/assets/127673790/5fd90b04-5761-4422-bf1e-32fa76bc9cc9" height="250"><br>
+<br><br><img src="https://github.com/julianganjs/banking-system-chatbot/assets/127673790/5fd90b04-5761-4422-bf1e-32fa76bc9cc9" width="510vw"><br>
 ## License
 This project is licensed under the MIT License.
